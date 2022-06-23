@@ -9,7 +9,7 @@ export { default as Notification } from './Notification';
 export { default as Sidebar } from './Sidebar';
 export { default as ThemeSettings } from './ThemeSettings';
 export { default as UserProfile } from './UserProfile';
-// eslint-disable-next-line import/no-cycle
+
 export { default as LineChart } from './Charts/LineChart';
 export { default as Pie } from './Charts/Pie';
 export { default as SparkLine } from './Charts/SparkLine';
