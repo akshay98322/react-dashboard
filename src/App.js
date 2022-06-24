@@ -10,7 +10,7 @@ import './App.css'
 import { Button } from '@syncfusion/ej2/buttons';
 
 const App = () => {
-  const activeMenu = false;
+  const activeMenu = true;
   return (
     <div>
       <BrowserRouter>
